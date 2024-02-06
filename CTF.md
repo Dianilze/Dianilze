@@ -15,6 +15,7 @@
   * <a href="#Bonus 1">Bonus 1</a>;
   * <a href="#Bonus 2">Bonus 2</a>;
 * <a href="#Conclusão">Conclusão</a>;
+* <a href="#Referências">Referências</a>
 
  # Capture The Flag 
 
@@ -269,7 +270,16 @@ A conclusão deste walkthrough ressalta a importância e a riqueza da experiênc
 Embora alguns desafios não tenham sido concluídos com êxito devido à sua complexidade, essa natureza desafiadora incentivou a pesquisa e o aprendizado contínuo, estimulando a busca por soluções inovadoras e o desenvolvimento de estratégias eficazes.
 
 A colaboração em grupo revelou-se crucial, permitindo a troca de conhecimentos e a aplicação de abordagens diversas na resolução dos desafios. A exploração de ferramentas e técnicas não familiares expandiu o conjunto de habilidades e proporcionou uma visão mais ampla do cenário de segurança.
-Este walkthrough não apenas permitiu a aplicação prática de conceitos teóricos, mas também enfatizou a importância da adaptabilidade e do raciocínio crítico ao enfrentar cenários de segurança cibernética do mundo real. As habilidades adquiridas durante este processo são inestimáveis e contribuem significativamente para o aprimoramento profissional na área
+Este walkthrough não apenas permitiu a aplicação prática de conceitos teóricos, mas também enfatizou a importância da adaptabilidade e do raciocínio crítico ao enfrentar cenários de segurança cibernética do mundo real. As habilidades adquiridas durante este processo são inestimáveis e contribuem significativamente para o aprimoramento profissional na área.
+
+# Referências
+
+* Sqlmap Documentation: http://sqlmap.org/documentation.html
+* Volatility Documentation: https://www.volatilityfoundation.org/documentation/
+* Nmap Documentation: https://nmap.org/book/man.html
+* Burp Suite Documentation: https://portswigger.net/burp/documentation
+* Metasploit Unleashed: https://www.metasploitunleashed.com/
+
 
 - 👋 Hi, I’m @Dianilze Nº 46246
 
